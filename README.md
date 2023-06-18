@@ -40,6 +40,6 @@ Este projeto foi desenvolvido como parte de uma atividade escolar no 3º ano do 
 ## Autores
 
 - Vitor Perrone(https://github.com/VitorPerrone)
+- Gabriel Victor (https://github.com/GabrielVictor0)
 - Giovanna Honorato
-- Gabriel Victor
 - Marian Oliveira
